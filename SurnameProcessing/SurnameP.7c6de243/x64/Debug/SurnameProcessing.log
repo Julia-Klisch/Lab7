@@ -1,0 +1,6 @@
+﻿  SurnameProcessing.cpp
+D:\Download\SurnameProcessing\SurnameProcessing.cpp(166,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Download\SurnameProcessing\SurnameProcessing.cpp(167,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Download\SurnameProcessing\SurnameProcessing.cpp(168,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Download\SurnameProcessing\SurnameProcessing.cpp(169,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  SurnameProcessing.vcxproj -> D:\Download\SurnameProcessing\x64\Debug\SurnameProcessing.exe
